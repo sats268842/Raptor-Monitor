@@ -4,18 +4,18 @@ repo: Raptor-Monitor # The name of this repository
 
 sites:
   - name: Raptor-Web
-    url: https://raptor.vercel.app
+    url: https://www.raptorapp.online
    
   - name: Raptor-Login-Api
-    url: https://raptorlogin.santhoshthomas.xyz
+    url: https://raptorlogin.raptorapp.online
    
   - name: Raptor-Vehicle-Api
-    url: https://vehicle.santhoshthomas.xyz/vehicles
+    url: https://vehicle.raptorapp.online/vehicles
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.santhoshthomas.xyz
+  cname: status.raptorapp.online
   logoUrl: https://res.cloudinary.com/www-santhoshthomas-xyz/image/upload/v1604123432/RapTor/Raptor_logo_flrpbd.png
 #   baseUrl: /Raptor-Monitor
   name: Raptor
