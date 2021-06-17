@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/raptorlogin.santhoshthomas.xyz",
     "slug": "raptor-login-api",
     "status": "up",
-    "uptime": "50.49%",
-    "uptimeDay": "50.49%",
-    "uptimeWeek": "50.49%",
-    "uptimeMonth": "50.49%",
-    "uptimeYear": "50.49%",
-    "time": 693,
-    "timeDay": 693,
-    "timeWeek": 693,
-    "timeMonth": 693,
-    "timeYear": 693,
+    "uptime": "51.29%",
+    "uptimeDay": "51.29%",
+    "uptimeWeek": "51.29%",
+    "uptimeMonth": "51.29%",
+    "uptimeYear": "51.29%",
+    "time": 697,
+    "timeDay": 697,
+    "timeWeek": 697,
+    "timeMonth": 697,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2021-06-17": 45
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1011,
-    "timeDay": 1011,
-    "timeWeek": 1011,
-    "timeMonth": 1011,
-    "timeYear": 1011,
+    "time": 1006,
+    "timeDay": 1006,
+    "timeWeek": 1006,
+    "timeMonth": 1006,
+    "timeYear": 1006,
     "dailyMinutesDown": {}
   }
 ]
