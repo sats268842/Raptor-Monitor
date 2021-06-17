@@ -18,7 +18,6 @@ status-website:
   cname: http://status.santhoshthomas.xyz
   theme: dark
   baseUrl: /Raptor-Monitor
-  logoUrl: https://res.cloudinary.com/www-santhoshthomas-xyz/image/upload/v1604123432/RapTor/Raptor_logo_flrpbd.png
   name: Raptor
   introTitle: "**Raptor**"
   introMessage: 
