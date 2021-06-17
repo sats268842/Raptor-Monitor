@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.raptorapp.online",
     "slug": "raptor-web",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "90.09%",
+    "uptimeDay": "90.09%",
+    "uptimeWeek": "90.09%",
+    "uptimeMonth": "90.09%",
+    "uptimeYear": "90.09%",
     "time": 129,
     "timeDay": 129,
     "timeWeek": 129,
     "timeMonth": 129,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2021-06-17": 0
+      "2021-06-17": 31
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://raptorlogin.raptorapp.online",
     "icon": "https://favicons.githubusercontent.com/raptorlogin.raptorapp.online",
     "slug": "raptor-login-api",
-    "status": "down",
-    "uptime": "70.11%",
-    "uptimeDay": "70.11%",
-    "uptimeWeek": "70.11%",
-    "uptimeMonth": "70.11%",
-    "uptimeYear": "70.11%",
-    "time": 700,
-    "timeDay": 700,
-    "timeWeek": 700,
-    "timeMonth": 700,
-    "timeYear": 700,
+    "status": "up",
+    "uptime": "61.96%",
+    "uptimeDay": "61.96%",
+    "uptimeWeek": "61.96%",
+    "uptimeMonth": "61.96%",
+    "uptimeYear": "61.96%",
+    "time": 721,
+    "timeDay": 721,
+    "timeWeek": 721,
+    "timeMonth": 721,
+    "timeYear": 721,
     "dailyMinutesDown": {
-      "2021-06-17": 70
+      "2021-06-17": 101
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://vehicle.raptorapp.online/vehicles",
     "icon": "https://favicons.githubusercontent.com/vehicle.raptorapp.online",
     "slug": "raptor-vehicle-api",
-    "status": "down",
-    "uptime": "88.77%",
-    "uptimeDay": "88.77%",
-    "uptimeWeek": "88.77%",
-    "uptimeMonth": "88.77%",
-    "uptimeYear": "88.77%",
-    "time": 964,
-    "timeDay": 964,
-    "timeWeek": 964,
-    "timeMonth": 964,
-    "timeYear": 964,
+    "status": "up",
+    "uptime": "78.02%",
+    "uptimeDay": "78.02%",
+    "uptimeWeek": "78.02%",
+    "uptimeMonth": "78.02%",
+    "uptimeYear": "78.02%",
+    "time": 970,
+    "timeDay": 970,
+    "timeWeek": 970,
+    "timeMonth": 970,
+    "timeYear": 970,
     "dailyMinutesDown": {
-      "2021-06-17": 25
+      "2021-06-17": 56
     }
   }
 ]
