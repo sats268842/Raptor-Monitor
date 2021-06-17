@@ -15,17 +15,17 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: http://status.santhoshthomas.xyz
+  cname: status.santhoshthomas.xyz
   theme: dark
   baseUrl: /Raptor-Monitor
   name: Raptor
-  introTitle: "**Raptor**"
-  introMessage: 
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/sats268842/Raptor-Monitor
+#   introTitle: "**Raptor**"
+#   introMessage: 
+#   navbar:
+#     - title: Status
+#       href: /
+#     - title: GitHub
+#       href: https://github.com/sats268842/Raptor-Monitor
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
