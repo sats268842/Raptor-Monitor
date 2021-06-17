@@ -10,7 +10,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: https://status.santhoshthomas.xyz
+  cname: http://status.santhoshthomas.xyz
   # baseUrl: /your-repo-name
   logoUrl: https://res.cloudinary.com/www-santhoshthomas-xyz/image/upload/v1604123432/RapTor/Raptor_logo_flrpbd.png
   name: Raptor
