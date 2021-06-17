@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 324,
-    "timeDay": 324,
-    "timeWeek": 324,
-    "timeMonth": 324,
-    "timeYear": 324,
+    "time": 226,
+    "timeDay": 226,
+    "timeWeek": 226,
+    "timeMonth": 226,
+    "timeYear": 226,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Raptor-Login-Api",
+    "url": "https://raptorlogin.santhoshthomas.xyz",
+    "icon": "https://favicons.githubusercontent.com/raptorlogin.santhoshthomas.xyz",
+    "slug": "raptor-login-api",
+    "status": "down",
+    "uptime": "31.05%",
+    "uptimeDay": "31.05%",
+    "uptimeWeek": "31.05%",
+    "uptimeMonth": "31.05%",
+    "uptimeYear": "31.05%",
+    "time": 681,
+    "timeDay": 681,
+    "timeWeek": 681,
+    "timeMonth": 681,
+    "timeYear": 681,
+    "dailyMinutesDown": {
+      "2021-06-17": 0
+    }
   }
 ]
