@@ -1,60 +1,62 @@
 [
   {
     "name": "Raptor-Web",
-    "url": "https://raptor.vercel.app",
-    "icon": "https://favicons.githubusercontent.com/raptor.vercel.app",
+    "url": "https://www.raptorapp.online",
+    "icon": "https://favicons.githubusercontent.com/www.raptorapp.online",
     "slug": "raptor-web",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 129,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Raptor-Login-Api",
-    "url": "https://raptorlogin.santhoshthomas.xyz",
-    "icon": "https://favicons.githubusercontent.com/raptorlogin.santhoshthomas.xyz",
-    "slug": "raptor-login-api",
-    "status": "down",
-    "uptime": "78.54%",
-    "uptimeDay": "78.54%",
-    "uptimeWeek": "78.54%",
-    "uptimeMonth": "78.54%",
-    "uptimeYear": "78.54%",
-    "time": 700,
-    "timeDay": 700,
-    "timeWeek": 700,
-    "timeMonth": 700,
-    "timeYear": 700,
-    "dailyMinutesDown": {
-      "2021-06-17": 45
-    }
-  },
-  {
-    "name": "Raptor-Vehicle-Api",
-    "url": "https://vehicle.santhoshthomas.xyz/vehicles",
-    "icon": "https://favicons.githubusercontent.com/vehicle.santhoshthomas.xyz",
-    "slug": "raptor-vehicle-api",
     "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "99.97%",
     "uptimeWeek": "99.97%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
+    "time": 129,
+    "timeDay": 129,
+    "timeWeek": 129,
+    "timeMonth": 129,
+    "timeYear": 129,
+    "dailyMinutesDown": {
+      "2021-06-17": 0
+    }
+  },
+  {
+    "name": "Raptor-Login-Api",
+    "url": "https://raptorlogin.raptorapp.online",
+    "icon": "https://favicons.githubusercontent.com/raptorlogin.raptorapp.online",
+    "slug": "raptor-login-api",
+    "status": "down",
+    "uptime": "70.15%",
+    "uptimeDay": "70.15%",
+    "uptimeWeek": "70.15%",
+    "uptimeMonth": "70.15%",
+    "uptimeYear": "70.15%",
+    "time": 700,
+    "timeDay": 700,
+    "timeWeek": 700,
+    "timeMonth": 700,
+    "timeYear": 700,
+    "dailyMinutesDown": {
+      "2021-06-17": 70
+    }
+  },
+  {
+    "name": "Raptor-Vehicle-Api",
+    "url": "https://vehicle.raptorapp.online/vehicles",
+    "icon": "https://favicons.githubusercontent.com/vehicle.raptorapp.online",
+    "slug": "raptor-vehicle-api",
+    "status": "down",
+    "uptime": "88.82%",
+    "uptimeDay": "88.82%",
+    "uptimeWeek": "88.82%",
+    "uptimeMonth": "88.82%",
+    "uptimeYear": "88.82%",
     "time": 964,
     "timeDay": 964,
     "timeWeek": 964,
     "timeMonth": 964,
     "timeYear": 964,
     "dailyMinutesDown": {
-      "2021-06-17": 0
+      "2021-06-17": 25
     }
   }
 ]
