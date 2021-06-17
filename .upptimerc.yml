@@ -11,7 +11,7 @@ sites:
     url: https://raptorlogin.santhoshthomas.xyz/login
     headers:
        - "Content-Type: application/json"
-    body: `{ "email": ${{secrets.raptor_login_email}}, "password": ${{secrets.raptor_login_password}}}`
+    body: { "email": ${{secrets.raptor_login_email}}, "password": ${{secrets.raptor_login_password}}}
   
   - name: Raptor-Vehicle-Api
     url: https://vehicle.santhoshthomas.xyz/vehicles
