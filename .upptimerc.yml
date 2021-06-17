@@ -7,7 +7,11 @@ sites:
     url: https://raptor.vercel.app
    
   - name: Raptor-Login-Api
-    url: https://raptorlogin.santhoshthomas.xyz
+    method: POST
+    url: https://raptorlogin.santhoshthomas.xyz/login
+    headers:
+       - "Content-Type: application/json"
+    body: '{ "email": ${{raptor_login_email}}, password": ${{raptor_login_password}} }'
   
   - name: Raptor-Vehicle-Api
     url: https://vehicle.santhoshthomas.xyz/vehicles
