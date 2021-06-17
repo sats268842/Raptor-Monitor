@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.santhoshthomas.xyz
   theme: dark
-  baseUrl: /Raptor-Monitor
+#   baseUrl: /Raptor-Monitor
   name: Raptor
 #   introTitle: "**Raptor**"
 #   introMessage: 
