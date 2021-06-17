@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: http://status.santhoshthomas.xyz
   theme: dark
-  # baseUrl: /your-repo-name
+  baseUrl: /Raptor-Monitor
   logoUrl: https://res.cloudinary.com/www-santhoshthomas-xyz/image/upload/v1604123432/RapTor/Raptor_logo_flrpbd.png
   name: Raptor
   introTitle: "**Raptor**"
