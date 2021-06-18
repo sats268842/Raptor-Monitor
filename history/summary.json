@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/raptorapp.online",
     "slug": "raptor-web",
     "status": "up",
-    "uptime": "83.37%",
-    "uptimeDay": "87.33%",
-    "uptimeWeek": "83.37%",
-    "uptimeMonth": "83.37%",
-    "uptimeYear": "83.37%",
-    "time": 161,
-    "timeDay": 298,
-    "timeWeek": 161,
-    "timeMonth": 161,
-    "timeYear": 161,
+    "uptime": "83.38%",
+    "uptimeDay": "87.46%",
+    "uptimeWeek": "83.38%",
+    "uptimeMonth": "83.38%",
+    "uptimeYear": "83.38%",
+    "time": 165,
+    "timeDay": 280,
+    "timeWeek": 165,
+    "timeMonth": 165,
+    "timeYear": 165,
     "dailyMinutesDown": {
       "2021-06-17": 307
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "94.42%",
     "uptimeMonth": "94.42%",
     "uptimeYear": "94.42%",
-    "time": 758,
-    "timeDay": 907,
-    "timeWeek": 758,
-    "timeMonth": 758,
-    "timeYear": 758,
+    "time": 798,
+    "timeDay": 1027,
+    "timeWeek": 798,
+    "timeMonth": 798,
+    "timeYear": 798,
     "dailyMinutesDown": {
       "2021-06-17": 101
     }
@@ -50,33 +50,31 @@
     "uptimeWeek": "96.88%",
     "uptimeMonth": "96.88%",
     "uptimeYear": "96.88%",
-    "time": 954,
-    "timeDay": 905,
-    "timeWeek": 954,
-    "timeMonth": 954,
-    "timeYear": 954,
+    "time": 956,
+    "timeDay": 922,
+    "timeWeek": 956,
+    "timeMonth": 956,
+    "timeYear": 956,
     "dailyMinutesDown": {
       "2021-06-17": 56
     }
   },
   {
-    "name": "Raptor-Vehicle-Api",
+    "name": "Raptor-Face-Api",
     "url": "http://raptorface.raptorapp.online/getcriminals",
     "icon": "https://favicons.githubusercontent.com/raptorface.raptorapp.online",
-    "slug": "raptor-vehicle-api",
+    "slug": "raptor-face-api",
     "status": "up",
-    "uptime": "96.88%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.88%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "96.88%",
-    "time": 954,
-    "timeDay": 905,
-    "timeWeek": 954,
-    "timeMonth": 954,
-    "timeYear": 954,
-    "dailyMinutesDown": {
-      "2021-06-17": 56
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 697,
+    "timeDay": 697,
+    "timeWeek": 697,
+    "timeMonth": 697,
+    "timeYear": 697,
+    "dailyMinutesDown": {}
   }
 ]
