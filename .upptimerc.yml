@@ -12,7 +12,7 @@ sites:
   - name: Raptor-Vehicle-Api
     url: https://vehicle.raptorapp.online/vehicles
     
-  - name: Raptor-Vehicle-Api
+  - name: Raptor-Face-Api
     url: http://raptorface.raptorapp.online/getcriminals
     
 
