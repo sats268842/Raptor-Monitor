@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/raptorapp.online",
     "slug": "raptor-web",
     "status": "up",
-    "uptime": "95.72%",
+    "uptime": "95.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.46%",
-    "uptimeMonth": "95.72%",
-    "uptimeYear": "95.72%",
+    "uptimeMonth": "95.77%",
+    "uptimeYear": "95.77%",
     "time": 338,
     "timeDay": 1007,
     "timeWeek": 805,
@@ -26,9 +26,9 @@
     "url": "https://raptorlogin.raptorapp.online",
     "icon": "https://favicons.githubusercontent.com/raptorlogin.raptorapp.online",
     "slug": "raptor-login-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.59%",
@@ -38,6 +38,7 @@
     "timeMonth": 810,
     "timeYear": 810,
     "dailyMinutesDown": {
+      "2021-07-08": 0,
       "2021-07-04": 21,
       "2021-06-17": 101
     }
@@ -47,9 +48,9 @@
     "url": "https://vehicle.raptorapp.online/vehicles",
     "icon": "https://favicons.githubusercontent.com/vehicle.raptorapp.online",
     "slug": "raptor-vehicle-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.74%",
@@ -59,6 +60,7 @@
     "timeMonth": 1196,
     "timeYear": 1196,
     "dailyMinutesDown": {
+      "2021-07-08": 0,
       "2021-06-30": 22,
       "2021-06-17": 56
     }
