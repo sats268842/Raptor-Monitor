@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/raptorapp.online",
     "slug": "raptor-web",
     "status": "down",
-    "uptime": "27.75%",
+    "uptime": "27.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "21.08%",
+    "uptimeYear": "20.93%",
     "time": 584,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 582,
+    "timeYear": 580,
     "dailyMinutesDown": {
-      "2022-07-23": 655,
+      "2022-07-24": 15,
+      "2022-07-23": 1440,
       "2022-07-22": 1440,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
@@ -318,7 +319,7 @@
     "icon": "https://favicons.githubusercontent.com/raptorlogin.raptorapp.online",
     "slug": "raptor-login-api",
     "status": "down",
-    "uptime": "7.87%",
+    "uptime": "7.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -327,9 +328,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 851,
+    "timeYear": 839,
     "dailyMinutesDown": {
-      "2022-07-23": 655,
+      "2022-07-24": 15,
+      "2022-07-23": 1440,
       "2022-07-22": 1440,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
@@ -692,8 +694,7 @@
       "2021-07-28": 1440,
       "2021-07-27": 1440,
       "2021-07-26": 1440,
-      "2021-07-25": 1440,
-      "2021-07-24": 1440
+      "2021-07-25": 1440
     }
   },
   {
@@ -702,7 +703,7 @@
     "icon": "https://favicons.githubusercontent.com/vehicle.raptorapp.online",
     "slug": "raptor-vehicle-api",
     "status": "down",
-    "uptime": "7.87%",
+    "uptime": "7.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -711,9 +712,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 867,
+    "timeYear": 870,
     "dailyMinutesDown": {
-      "2022-07-23": 655,
+      "2022-07-24": 15,
+      "2022-07-23": 1440,
       "2022-07-22": 1440,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
@@ -1076,8 +1078,7 @@
       "2021-07-28": 1440,
       "2021-07-27": 1440,
       "2021-07-26": 1440,
-      "2021-07-25": 1440,
-      "2021-07-24": 1440
+      "2021-07-25": 1440
     }
   },
   {
@@ -1086,18 +1087,17 @@
     "icon": "https://favicons.githubusercontent.com/raptorface.raptorapp.online",
     "slug": "raptor-face-api",
     "status": "up",
-    "uptime": "16.19%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "97.77%",
-    "uptimeMonth": "97.18%",
-    "uptimeYear": "9.44%",
-    "time": 831,
-    "timeDay": 1347,
-    "timeWeek": 907,
-    "timeMonth": 658,
-    "timeYear": 631,
+    "uptime": "16.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "97.28%",
+    "uptimeYear": "9.59%",
+    "time": 830,
+    "timeDay": 875,
+    "timeWeek": 912,
+    "timeMonth": 663,
+    "timeYear": 628,
     "dailyMinutesDown": {
-      "2022-07-23": 15,
       "2022-07-22": 21,
       "2022-07-21": 111,
       "2022-07-20": 33,
@@ -1453,8 +1453,7 @@
       "2021-07-28": 1440,
       "2021-07-27": 1440,
       "2021-07-26": 1440,
-      "2021-07-25": 1440,
-      "2021-07-24": 1440
+      "2021-07-25": 1440
     }
   }
 ]
